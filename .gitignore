@@ -34,7 +34,8 @@ local.properties
 *.iws
 
 # Local IDEA workspace
-.idea/workspace.xml
+!\.idea/codeStyleSettings.xml
+!\.idea/copyright
 
 # Gradle cache
 .gradle
